@@ -3,6 +3,7 @@
 Project to transfer Employee data from a CSV file to a MySQL Database.
 
 For this project to work for you there are a number of requirements:
+
 Java Code Requirements:
 1. Inside the file in resources named login.properties the username and password must be changed to YOUR username and password for your MySQL database.
 2. If you want to upload a different CSV file any mention of "src/main/resources/EmployeeRecordsLarge.csv" must be changed to the content root path for your file.
